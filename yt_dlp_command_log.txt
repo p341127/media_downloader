@@ -1,0 +1,3 @@
+Command Options: {'format': 'bestvideo[ext=mp4]+bestaudio/best/best', 'outtmpl': 'C:/Users/flp34/Downloads\\%(title)s.%(ext)s', 'noplaylist': False, 'merge_output_format': 'mp4', 'progress_hooks': [<function download_video.<locals>.my_hook at 0x00000266024C1D00>], 'postprocessors': [{'key': 'FFmpegVideoConvertor', 'preferedformat': 'mp4'}]}
+URL: https://www.youtube.com/watch?v=0HJIsmqYfSQ
+Final Command: -f "bestvideo[ext=mp4]+bestaudio/best/best"
